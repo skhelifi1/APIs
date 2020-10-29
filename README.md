@@ -9,7 +9,7 @@
 * The Dataframe was then exported into a CSV file.
 * Finally i used a series of scatter plots and linear regression to plot Temperature, Humidity %, Cloudiness% and Wind Speed Vs Latitudes.
 * The scatter plots were also saved into a PNG image.
-* I drew a few observations about the characteristics of the weather using the equator as a location reference.
+* I drew a few observations about the trends of the weather using the equator as a location reference.
 
 ## Vacationpy
 
